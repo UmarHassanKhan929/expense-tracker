@@ -1,4 +1,11 @@
-# exptrack
+# Expense Tracker
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56496945/175803318-2505eee4-a067-44a5-9175-20bb20b30a64.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/56496945/175803325-49413be2-e431-41a5-b8f1-f81c0c60f08a.jpeg" width="200">
+</p>
+
+
 
 A new Flutter project.
 
